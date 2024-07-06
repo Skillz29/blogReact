@@ -1,0 +1,24 @@
+.postsHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.postsHeader h1 {
+  /* margin-right: 900px; */
+}
+.postsHeader div {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.addBtn {
+  max-width: 120px;
+  border-radius: 8px;
+  padding: 3px 14px;
+  font-size: 20px;
+  background-color: #027674;
+  color: aliceblue;
+  cursor: pointer;
+}

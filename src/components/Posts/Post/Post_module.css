@@ -1,0 +1,42 @@
+.post {
+  width: 33%;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.post-image{
+  height: 200px;
+}
+
+.post img {
+  max-width: 200px;
+
+}
+
+.post p {
+  text-align: left;
+}
+
+.post h3 {
+  margin-bottom: 0;
+}
+
+.post button {
+  cursor: pointer;
+}
+
+.post a {
+  text-decoration: underline;
+  color: blue;
+  margin-left: 10px;
+  font-weight: 700;
+}
+
+.actions  {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  padding-right: 5px;
+}

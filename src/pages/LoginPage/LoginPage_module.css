@@ -1,0 +1,28 @@
+.loginform {
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.loginform div{
+  margin-bottom: 10px;
+
+}
+
+.loginform input,
+.loginform button {
+  padding: 3px 5px;
+  width: 80%;
+  border-radius: 4px;
+  font-size: 22px;
+}
+
+.loginform input {
+  border: 1px solid black;
+}
+
+.loginform button {
+
+  cursor: pointer;
+  background-color: #333;
+  color: aliceblue;
+}

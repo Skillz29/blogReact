@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:wght@400;700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+
+}
+
+input, button {
+  font-family: inherit;
+  outline: none;
+  border: none;
+}
+
+button {
+  background: none;
+}
+
+h1{
+  font-size: 40px;
+}
+
+input, textarea {
+  font-size: 16px;
+}
